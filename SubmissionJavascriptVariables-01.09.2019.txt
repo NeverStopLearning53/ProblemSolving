@@ -13,7 +13,7 @@ _camelCase_
 
 ### 3 How would you then log the value of mentor to the console?
 
-_Type `mentor` into console and hit enter_
+_console.log(mentor);_
 
 
 ### 4 Describe the difference between let, var, and const.
